@@ -1,1 +1,1 @@
-Snake game is a single game made with Javascript, jQuery, HTML and CSS.
+Snake game is a single player video game made with Javascript, jQuery, HTML and CSS.
