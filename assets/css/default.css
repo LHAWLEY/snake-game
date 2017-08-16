@@ -1,0 +1,36 @@
+.container {
+  width: 450px;
+  margin: 0 auto;
+  text-align: center;
+  color: #5c5c5c;
+  padding-top: 10px;
+}
+
+.heading { text-transform: uppercase}
+
+.board {
+  height: 450px;
+  width: 450px;
+}
+
+.tile {
+  background-color: #eee;
+  border: 1px solid #eee;
+  height: 20px;
+  width: 20px;
+  float: left;
+}
+
+.apple { background-color: #ff3232 }
+
+.snake { background-color: #00b200 }
+
+.button,
+.button:active,
+.button:hover {
+  text-decoration: none;
+  color: #5c5c5c;
+  display: inline-block;
+  padding-top: 20px;
+  font-size: 20px;
+}
