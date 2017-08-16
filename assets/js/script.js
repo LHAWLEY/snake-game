@@ -25,5 +25,5 @@ $(document).ready(function() {
   setInterval(function() {
     board.moveSnake();
     view.render();
-  }, 10000);
+  }, 200);
 });
